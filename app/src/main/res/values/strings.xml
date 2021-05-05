@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">form</string>
+    <string name="resistration_form">Resistration form</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="education">education:-</string>
+    <string name="ug">UG</string>
+    <string name="pg">PG</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="gender">gender:-</string>
+    <string name="resistration_detail" />
+    <string name="resistration_detail1">Resistration detail</string>
+    <string name="name">Name</string>
+    <string name="name1">name</string>
+    <string name="gender1">Gender:-</string>
+    <string name="education1">Education:-</string>
+    <string name="diploma">Diploma</string>
+    <string name="email">Email</string>
+    <string name="education2">Education</string>
+    <string name="gender2">Gender</string>
+    <string name="password">Password</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="search_on_map">search on map</string>
+    <string name="contact_us">contact us</string>
+    <string name="visit_on_web">visit on web</string>
+
+</resources>
